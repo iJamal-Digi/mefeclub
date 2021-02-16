@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.paddle.com	TRUE	/	FALSE	1999999999	__cfduid	dd3767cff29082009828d736b0c9e61401613442189
+cdn.paddle.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.useproof.com	TRUE	/	FALSE	1999999999	__cfduid	dbeaec55423a122e17f835962c9227d6f1613442190
+cdn.useproof.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+.leadsgorilla.io	TRUE	/	FALSE	1999999999	__cfduid	d379f49c6523b7daa28b7b92f8ee4bf091613442203
+leadsgorilla.io	TRUE	/	FALSE	1999999999	SameSite	Lax
+
